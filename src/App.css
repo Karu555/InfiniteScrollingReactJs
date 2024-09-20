@@ -1,0 +1,30 @@
+body{
+  background-color: grey;
+}
+.counter{
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.card{
+  height: 200px;
+  width: 200px;
+  /* border: 1px solid red; */
+}
+
+.h1{
+  /* border: 1px solid red; */
+  width: 100%;
+  margin: 30px 40px ;
+  color: white;
+}
+
+button{
+  padding: 10px;
+  border-radius: 10px;
+  background-color: aqua;
+  font-size: medium;
+  margin-left: 5px;
+  border: none;
+}
